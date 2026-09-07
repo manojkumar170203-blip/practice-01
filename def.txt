@@ -1,1 +1,3 @@
-  iam b.tech graduate in ccet palani
+SELECT column_names
+FROM table_name
+WHERE column_name IS NULL;
